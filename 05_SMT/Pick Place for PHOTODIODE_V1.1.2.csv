@@ -1,16 +1,18 @@
 Altium Designer Pick and Place Locations
-D:\WorkSpace\Altium\NANORACK\PHOTODIODE V1.2.0\01_DESIGN\Project Outputs for NANORACK_PHOTODIODE\Pick Place for PHOTODIODE_V1.1.2.csv
+D:\PHOTODIODE V1.1.2\01_DESIGN\Project Outputs for NANORACK_PHOTODIODE\Pick Place for PHOTODIODE_V1.1.2.csv
 
 ========================================================================================================================
 File Design Information:
 
-Date:       21/02/25
-Time:       11:43
-Revision:   Not in VersionControl
+Date:       09/04/25
+Time:       01:48
+Revision:   68b787cb47e921e428891e1f51b331ef79ed8d52
 Variant:    No variations
 Units used: mm
 
 "Designator","Comment","Layer","Footprint","Center-X(mm)","Center-Y(mm)","Rotation","Description"
+"H10","HOLD","TopLayer","M3_-_6mm","42.5000","3.6000","22.5",""
+"H9","HOLD","TopLayer","M3_-_6mm","42.5000","81.4000","22.5",""
 "C47","0.22uF/25V","TopLayer","CN-SMD-0603","32.8459","36.3628","180","0603"
 "C46","0.22uF/25V","TopLayer","CN-SMD-0603","32.8457","34.5671","0","0603"
 "C45","0.22uF/25V","TopLayer","CN-SMD-0603","32.8459","43.5628","180","0603"
@@ -24,9 +26,9 @@ Units used: mm
 "C37","0.22uF/25V","TopLayer","CN-SMD-0603","32.8459","72.3083","180","0603"
 "C36","0.22uF/25V","TopLayer","CN-SMD-0603","32.8457","70.4950","0","0603"
 "U11","ICL7660","TopLayer","SO8","41.5022","18.0672","270","CMOS Voltage Converters"
-"C50","10uF 16V","TopLayer","CAP_TANT_1206","41.6172","10.7054","180","Polarized Capacitor (Axial)"
+"C50","10uF 16V","TopLayer","CAP_TANT_1206","41.6784","11.9554","180","Polarized Capacitor (Axial)"
 "C49","10uF 16V","TopLayer","CAP_TANT_1206","41.6172","25.6278","180","Polarized Capacitor (Axial)"
-"C48","10uF 16V","TopLayer","CAP_TANT_1206","41.6172","6.3559","180","Polarized Capacitor (Axial)"
+"C48","10uF 16V","TopLayer","CAP_TANT_1206","41.6784","9.3120","180","Polarized Capacitor (Axial)"
 "JP1","JUMP2","TopLayer","Jump2","67.6480","29.5000","270",""
 "TP1","Test_Point","TopLayer","TESTPOINT","12.8820","26.7627","0",""
 "R20","4.7K 1%","TopLayer","RES-SMD-0603","32.8458","30.9184","180","0603"
